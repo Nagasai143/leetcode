@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nagasai143/leetcode/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/Nagasai143/leetcode/tree/master/0258-add-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Nagasai143/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Nagasai143/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Nagasai143/leetcode/tree/master/2507-number-of-common-factors) |
@@ -12,10 +13,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nagasai143/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Nagasai143/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Nagasai143/leetcode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Nagasai143/leetcode/tree/master/2507-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nagasai143/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
