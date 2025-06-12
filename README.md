@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nagasai143/leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Nagasai143/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Nagasai143/leetcode/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nagasai143/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Nagasai143/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Nagasai143/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Nagasai143/leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nagasai143/leetcode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Nagasai143/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
